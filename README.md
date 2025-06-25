@@ -50,6 +50,18 @@ To analyze pizza sales data using SQL by answering key business questions around
 - Transforming raw transactional data into actionable insights
 
 ---
+## 📬 Contact
+
+**Raj Sharma**  
+📧 sharmarj0809@gmail.com  
+📞 +91 9352197049  
+🔗 [LinkedIn](https://linkedin.com/in/raj-sharma-322205253/)
+
+---
+
+## 🙌 Thank You
+
+If you found this project helpful or inspiring, feel free to ⭐ star this repo or connect with me for collaboration.
 
 
 
